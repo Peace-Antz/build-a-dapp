@@ -10,6 +10,8 @@ This repository contains the instructions and dependencies you need to start bui
 
 ## 🚀 Getting Started
 
+You can enter these code snippets in your terminal.
+
 ### For macOS:
 
 1. **Install Homebrew**:
