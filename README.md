@@ -98,7 +98,3 @@ You can enter these code snippets in your terminal.
    ```bash
    npm start
    ```
-
----
-
-Feel free to copy and paste the above markdown into your GitHub README. It should render nicely and provide a clear set of instructions for users.
